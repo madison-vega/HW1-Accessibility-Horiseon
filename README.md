@@ -15,9 +15,16 @@ https://github.com/madison-vega/HW1-Accessibility-Horiseon
 
 You can access and view this website by clicking the above link. You can utilize the links in the navigation bar to jump to the associated article for more information.
 
+[alt text](assets/images/SS1.png)
+[alt text](assets/images/SS2.png)
+[alt text](assets/images/SS3.png)
+
+
 ## Credits
 
 I used these resources to assist in determining appropriate semantic tags.
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
 https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
+
+## License 
