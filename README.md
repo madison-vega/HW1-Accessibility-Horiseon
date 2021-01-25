@@ -15,9 +15,9 @@ https://github.com/madison-vega/HW1-Accessibility-Horiseon
 
 You can access and view this website by clicking the above link. You can utilize the links in the navigation bar to jump to the associated article for more information.
 
-[alt text](assets/images/SS1.png)
-[alt text](assets/images/SS2.png)
-[alt text](assets/images/SS3.png)
+[alt text](images/SS1.png)
+[alt text](images/SS2.png)
+[alt text](images/SS3.png)
 
 
 ## Credits
